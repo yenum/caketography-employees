@@ -1,0 +1,49 @@
+{
+  "employees": [
+    {
+      "id": "1",
+      "name": "Anna French",
+      "department": "Human Resources",
+      "position": "HR Manager",
+      "emailAddress": "a.french@caketography.com",
+      "notes": "Currently on maternity leave to resume on the 18th of August 2022",
+      "employeeInsuranceNumber": "45AFHRM"
+    },
+    {
+      "id": "2",
+      "name": "Maxwell Green",
+      "department": "Finance",
+      "position": "Finance Intern",
+      "emailAddress": "m.green@caketography.com",
+      "notes": "Completing a 6 month internship which is to end in December (end date tbc) 2022",
+      "employeeInsuranceNumber": "23MGFIN"
+    },
+    {
+      "id": "3",
+      "name": "Sidney Bala",
+      "department": "Engineering",
+      "position": "Software Engineer",
+      "emailAddress": "s.bala@caketography.com",
+      "notes": "Staff software engineer",
+      "employeeInsuranceNumber": "89SBESE"
+    },
+    {
+      "name": "Victor Price",
+      "position": "Director of Operations",
+      "department": "Senior Leadership",
+      "emailAddress": "v.price@caketography.com",
+      "employeeInsuranceNumber": "44VPSLD",
+      "notes": "Formerly head of operations",
+      "id": "nhYgMFU"
+    },
+    {
+      "name": "Susan Stevens",
+      "position": "Administrative Assistant",
+      "department": "Office Adminstration",
+      "emailAddress": "s.stevens@caketography.com",
+      "employeeInsuranceNumber": "56SSOAA",
+      "notes": "Back from maternity leave in two weeks time.",
+      "id": "CW8MHmw"
+    }
+  ]
+}
